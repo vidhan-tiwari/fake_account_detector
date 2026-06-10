@@ -18,11 +18,11 @@ By migrating to a dedicated API architecture, the prediction model is now decoup
 ## 🛠️ Tech Stack
 
 **Frontend:**
-* [React / Next.js]
+* [React]
 * [Tailwind CSS / Other styling]
 
 **Backend & ML API:**
-* [FastAPI / Flask / Go]
+* [FastAPI]
 * Python 3.x
 * [TensorFlow / PyTorch / Scikit-learn] 
 * Pandas & NumPy for data preprocessing
